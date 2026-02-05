@@ -1,0 +1,61 @@
+h3{
+    color:brown;
+}
+h2{
+   color:brown;
+} 
+.card1{
+    display: grid;
+    border-radius: 5px;
+    width:200px;
+    text-align: center;
+    border:2px solid black;
+}
+.card2{
+    display: grid;
+    border-radius: 5px;
+    width:200px;
+    text-align: center;
+    border:2px solid black;
+}
+.card3{
+    display: grid;
+    border-radius: 5px;
+    width:200px;
+    text-align: center;
+    border:2px solid black;
+}
+.card4{
+    display: grid;
+    border-radius: 5px;
+    width:200px;
+    text-align: center;
+    border:2px solid black;
+}
+
+.teju{
+    display:grid;
+    grid-template-columns: repeat(4,1);
+    display: flex;
+    gap:80px;
+    justify-content: space-around;
+}
+h4{
+    color:rgb(58, 5, 102);
+}
+h3{
+    color:brown;
+}
+#doctors{
+    text-align: center;
+}
+ /* .yyy{
+    
+    background-image: url(/image/medi.webp);
+        background-size: cover;
+        width: 700px;
+        height: 500px;;
+        padding: 20px;
+        
+
+    } */

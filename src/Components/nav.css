@@ -1,0 +1,9 @@
+ #item{
+    color:rgb(96, 22, 214);
+    display: flex;
+    justify-content:flex-end;
+    padding:20px;
+    align-items: center;
+    gap:20px;
+
+} 
